@@ -1,0 +1,6 @@
+Answer each question by typing your answer 
+	and pressing Enter.
+
+Press ESC at any time to exit the game.
+
+Good luck!
